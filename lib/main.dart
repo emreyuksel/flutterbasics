@@ -12,7 +12,7 @@ void main() {
         ),
         body: const Center(
           child: Image(
-            image: NetworkImage('https://ichef.bbci.co.uk/news/640/cpsprodpb/16FA9/production/_92712149_gettyimages-480164327.jpg'),
+            image: AssetImage('images/diamond.png'),
           ),
         ),
       ),
